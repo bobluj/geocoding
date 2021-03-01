@@ -1,0 +1,11 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#mapid{ 
+    height: 75vh;
+    width : 100vh; 
+}
