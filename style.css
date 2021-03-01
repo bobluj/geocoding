@@ -1,0 +1,26 @@
+ #content {
+display: flex;
+position: absolute;
+top:6vh; 
+height: 25vh;
+width: 98%;
+}
+
+#myChart {
+position: absolute;
+  top:4vh;
+    display: block;
+    width: 90vw;
+    height: 200vh;
+}
+
+#mapid{
+  /* background-color: magenta; */
+  position: absolute;  
+  top: 200vh;
+  height: 50vh;
+  width: 100%;
+
+}
+
+
